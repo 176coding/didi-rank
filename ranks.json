@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "lastScore": 0.259187,
+      "bestScore": 0.259187,
+      "bestCommitTime": "2016-05-30",
+      "lastCommitTime": "2016-05-30",
+      "history": [
+        {
+          "commitTime": "2016-05-30",
+          "rank": 1,
+          "score": 0.259187
+        }
+      ],
+      "lastRank": 1,
+      "teamName": "XMZH"
+    }
+  ]
+}
